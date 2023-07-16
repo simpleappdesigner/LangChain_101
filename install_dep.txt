@@ -3,3 +3,4 @@ pip install pypdf
 pip install OpenAI
 pip install VertexAI
 pip install 'google-cloud-aiplatform>=1.26.0'
+pip install rsa
